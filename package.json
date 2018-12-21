@@ -1,0 +1,22 @@
+{
+  "name": "medium_rest-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjseymour66/medium_rest-express.git"
+  },
+  "author": "Ryan Seymour",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rjseymour66/medium_rest-express/issues"
+  },
+  "homepage": "https://github.com/rjseymour66/medium_rest-express#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
